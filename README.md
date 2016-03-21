@@ -1,6 +1,8 @@
 # cnote $Id:$
 Command Line Note Taker for Mac, Linux, BSD, Unix variants. 
 
+Developer: Angsuman Chakraborty ( http://taragana.com )
+
 ## Install
 ### Automatic with installation script
 Run on Terminal:
