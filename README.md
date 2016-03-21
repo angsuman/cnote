@@ -3,8 +3,6 @@ Super simple utility to take notes from command line. All the notes are stored i
 
 `n Added cnote to github at https://github.com/angsuman/cnote`
 
-2016-03-21 17:06:29> Added cnote to github at https://github.com/angsuman/cnote
-
 Tested Platforms: Cent OS, Ubuntu, Mac OS X, Raspberry Pi
 
 Version: 1.0
