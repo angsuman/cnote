@@ -1,8 +1,6 @@
 # cnote $Id:$
 Command Line Note Taker for Mac, Linux, BSD, Unix variants. 
 
-Developer: Angsuman Chakraborty ( http://taragana.com )
-
 ## Install
 ### Automatic with installation script
 Run on Terminal:
@@ -22,3 +20,11 @@ Append the shell script content (https://raw.githubusercontent.com/angsuman/cnot
 - ne - Open all notes in (default) editor. You can set your default editor by defining the environment variable EDITOR in script
 - nrm - Delete matching note(s). YOu should list the desired note with nls first before nrm to ensure other notes are not deleted.
 - nh - Help
+
+# Developer
+Angsuman Chakraborty
+- Web:      http://taragana.com/
+- Facebook: https://www.facebook.com/angsuman.chakraborty
+- Twitter:  https://twitter.com/angsuman
+- LinkedIn: https://in.linkedin.com/in/angsuman
+- Blog:     http://blog.taragana.com
