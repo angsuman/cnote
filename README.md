@@ -1,4 +1,5 @@
-# cnote - Command Line Note Taker for Mac, Linux, BSD, Unix variants. 
+# cnote - Command Line Note Taker
+Supported Platforms: Mac, Linux, BSD, Unix variants. 
 
 ## Install
 ### Automatic with installation script
