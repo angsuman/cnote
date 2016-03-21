@@ -17,6 +17,7 @@ Version: 1.0
 - **ne** Open all notes in (default) editor. You can set your default editor by defining the environment variable EDITOR in script
   - `ne` - Open all notes in default editor
 - **nrm** Delete matching note(s). YOu should list the desired note with nls first before nrm to ensure other notes are not deleted
+  - `nrm dotnet` - Delete all note(s) containing `dotnet`
 - **nh** Help
 
 ### Notes
