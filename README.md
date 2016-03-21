@@ -2,6 +2,7 @@
 Super simple utility to take notes from command line. All the notes are stored in ~/.notes file. Notes are added with the simple command n:
 
 `n Added cnote to github at https://github.com/angsuman/cnote`
+
 2016-03-21 17:06:29> Added cnote to github at https://github.com/angsuman/cnote
 
 Tested Platforms: Cent OS, Ubuntu, Mac OS X, Raspberry Pi
