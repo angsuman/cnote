@@ -1,4 +1,4 @@
-# cnote
+# cnote $Id:$
 Command Line Note Taker for Mac, Linux, BSD, Unix variants. 
 
 ## Install
