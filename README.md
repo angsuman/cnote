@@ -1,5 +1,6 @@
 # CNote - Command Line Note Taker
 Tested Platforms: Cent OS, Ubuntu, Mac OS X, Raspberry Pi
+
 Version: 1.0
 
 ## Installation
