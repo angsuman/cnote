@@ -3,7 +3,8 @@ Command Line Note Taker for Mac, Linux, BSD, Unix variants.
 
 ## Install
 ### Automatic with installation script
-Run on Terminal / Console
+Run on Terminal:
+
 wget --no-check-certificate -q  -O- https://raw.githubusercontent.com/angsuman/cnote/master/install.sh|bash -
 
 ### Manual
