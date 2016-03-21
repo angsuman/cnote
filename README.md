@@ -24,6 +24,7 @@ Version: 1.0
 - All your notes are saved in ~/.notes file
 - Each note is saved as a single line
 - Each note is prefixed with a timestamp in 2016-03-19 08:39:21 format
+- To backup ~/.notes create a symbolic link to this file in your Dropbox directory. Dropbox crawls symbolic links and will automatically update as and when you add a note.
 
 ## Installation
 ### Automatic with installation script
