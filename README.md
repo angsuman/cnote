@@ -1,5 +1,7 @@
 # CNote - Command Line Note Taker
-Super simple utility to take notes from command line. All the notes are stored in ~/.notes file. Notes are added with the simple command n:
+This is a simple tool which allows you to instantly take notes from command line, while coding / researching. Saves all notes in ~/.notes; searchable & time-stamped.
+
+Here's how you can add a note:
 
 `n Added cnote to github at https://github.com/angsuman/cnote`
 
@@ -8,11 +10,11 @@ Tested Platforms: Cent OS, Ubuntu, Mac OS X, Raspberry Pi
 Version: 1.0
 
 ## CNote Commands(Manual)
-- n - Add note. Enclose in quotes to use any character in note. Note is always single-line but there is no limitation on the length of the line. Newlines must not be used.
-- nls - List all notes matching your phrase/word with date and time
-- ne - Open all notes in (default) editor. You can set your default editor by defining the environment variable EDITOR in script
-- nrm - Delete matching note(s). YOu should list the desired note with nls first before nrm to ensure other notes are not deleted.
-- nh - Help
+- **n** Add note. Enclose in quotes to use any character in note. Note is always single-line but there is no limitation on the length of the line. Newlines must not be used.
+- **nls** List all notes matching your phrase/word with date and time
+- **ne** Open all notes in (default) editor. You can set your default editor by defining the environment variable EDITOR in script
+- **nrm** Delete matching note(s). YOu should list the desired note with nls first before nrm to ensure other notes are not deleted.
+- **nh** Help
 
 ### Notes
 - All your notes are saved in ~/.notes file
