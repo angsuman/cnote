@@ -1,5 +1,6 @@
 # CNote - Command Line Note Taker
-Supported Platforms: Mac, Linux, BSD, Unix variants. 
+Tested Platforms: Cent OS, Ubuntu, Mac OS X, Raspberry Pi
+Version: 1.0
 
 ## Installation
 ### Automatic with installation script
