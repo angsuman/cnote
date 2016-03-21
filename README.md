@@ -8,7 +8,7 @@ Append this shell script content to ~/.bashrc (for access by your login account 
 - Each note is saved as a single line
 - Each note is prefixed with a timestamp in 2016-03-19 08:39:21 format
 
-Commands:
+## Commands
 - n - Write a new note
 - nls - List all notes matching your phrase/word with date and time
 - ne - Open all notes in editor. You can set your default editor by defining the environment variable EDITOR in script
