@@ -5,7 +5,7 @@ Supported Platforms: Mac, Linux, BSD, Unix variants.
 ### Automatic with installation script
 Run on Terminal:
 
-wget --no-check-certificate -q  -O- https://raw.githubusercontent.com/angsuman/cnote/master/install.sh|bash -
+`wget --no-check-certificate -q  -O- https://raw.githubusercontent.com/angsuman/cnote/master/install.sh|bash -`
 
 ### Manual
 Append the shell script content (https://raw.githubusercontent.com/angsuman/cnote/master/n.sh ) to ~/.bashrc (for access by your login account only) or to /etc/bashrc for access across all logins in the machine.
