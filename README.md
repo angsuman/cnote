@@ -35,6 +35,8 @@ Run on Terminal:
 ### Manual installation
 Append the shell script content (https://raw.githubusercontent.com/angsuman/cnote/master/n.sh ) to ~/.bashrc (for access by your login account only) or to /etc/bashrc for access across all logins in the machine.
 
+Why I developed it: https://medium.com/@angsuman/how-to-easily-manage-your-knowledge-base-with-cnote-cli-note-taking-tool-c17c35e8cc05
+
 # Developer
 Angsuman Chakraborty
 - Email: angsuman@taragana.com
