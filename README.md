@@ -33,9 +33,14 @@ Run on Terminal:
 `wget --no-check-certificate -q  -O- https://raw.githubusercontent.com/angsuman/cnote/master/install.sh|bash -`
 
 ### Manual installation
-Append the shell script content (https://raw.githubusercontent.com/angsuman/cnote/master/n.sh ) to ~/.bashrc (for access by your login account only) or to /etc/bashrc for access across all logins in the machine.
+Append the shell script content ( https://raw.githubusercontent.com/angsuman/cnote/master/n.sh ) to ~/.bashrc (for access by your login account only) or to /etc/bashrc for access across all logins in the machine.
 
 Why I developed it: https://medium.com/@angsuman/how-to-easily-manage-your-knowledge-base-with-cnote-cli-note-taking-tool-c17c35e8cc05
+
+# Articles
+- [How to easily manage your Knowledge base with CNote: CLI Note Taking Tool](https://medium.com/@angsuman/how-to-easily-manage-your-knowledge-base-with-cnote-cli-note-taking-tool-c17c35e8cc05#.hn0tv6yd3)
+- [How to auto-update CNote, Simple CLI Note Taking Application, to Google Drive Cloud](http://blog.taragana.com/how-to-auto-update-cnote-simple-cli-note-taking-application-to-google-drive-cloud-10)
+
 
 # Developer
 Angsuman Chakraborty
