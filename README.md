@@ -44,8 +44,8 @@ Append the shell script content ( https://raw.githubusercontent.com/angsuman/cno
 # Developer
 Angsuman Chakraborty
 - Email: angsuman@taragana.com
-- Web:      http://taragana.com/
-- Facebook: https://www.facebook.com/angsuman.chakraborty
-- Twitter:  https://twitter.com/angsuman
-- LinkedIn: https://in.linkedin.com/in/angsuman
-- Blog:     http://blog.taragana.com
+- [Web](http://taragana.com/)
+- [Facebook](https://www.facebook.com/angsuman.chakraborty)
+- [Twitter](https://twitter.com/angsuman)
+- [LinkedIn](https://in.linkedin.com/in/angsuman)
+- [Blog](http://blog.taragana.com)
